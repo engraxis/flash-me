@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213715825322",
+    "project_id": "flash-me-45b33",
+    "storage_bucket": "flash-me-45b33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213715825322:android:760296233a1710189716d3",
+        "android_client_info": {
+          "package_name": "com.dylandevelopers.flashme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213715825322-c4t0m89sg0f9etsed7osu9varrk2u9nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxQIOXl4Ic6HA9UWJ6v4AHEnZC5zHrGsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213715825322-c4t0m89sg0f9etsed7osu9varrk2u9nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
