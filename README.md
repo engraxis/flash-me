@@ -1,6 +1,4 @@
-# businesscard
-# ali changes kar rha hun ye dekho blue line aa gai ha is blue line ka matlab ka ye line abhi tak push nh hui
-A new Flutter application.
+A new Flutter application. Users can exchange their social profies with the scan of QR code.
 
 ## Getting Started
 
